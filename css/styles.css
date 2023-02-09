@@ -1,3 +1,12 @@
 hi {
     color:blue;
 }
+body {
+    background-color: goldenrod;
+}
+p {
+    margin-left: 50px;
+}
+body {
+    border-style: solid;
+}
